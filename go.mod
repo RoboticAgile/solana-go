@@ -92,4 +92,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/gagliardetto/solana-go => github.com/RoboticAgile/solana-go main
+replace github.com/gagliardetto/solana-go => github.com/RoboticAgile/solana-go v0.0.2
